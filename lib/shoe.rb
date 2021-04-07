@@ -9,4 +9,5 @@ class Shoe
 
   def repared_shoe
     puts "This shoe has been repaired."
+  end
 end
